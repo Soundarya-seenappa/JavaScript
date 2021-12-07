@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httplib.js",
+  "scripts": {
+    "start": "node httplib.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soundarya-seenappa/JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soundarya-seenappa/JavaScript/issues"
+  },
+  "homepage": "https://github.com/Soundarya-seenappa/JavaScript#readme"
+}
